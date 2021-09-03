@@ -5,7 +5,7 @@ def main():
     nm=0
     n=0
     while n >= 0:
-        n=float(input("Dame un numero positivo, dame uno negativo para terminar: "))
+        n=float(input())
         if n>=0:
             suma=suma+n
             nm=nm+1
@@ -13,7 +13,7 @@ def main():
             break
         
     prom=suma/nm
-    print("El promedio es ", prom)
+    print(prom)
     
 if __name__ == '__main__':
     main()
