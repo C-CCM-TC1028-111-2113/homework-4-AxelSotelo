@@ -18,7 +18,7 @@ sudo -H pip3 install pytest
 - ## 10 Alterna Caracteres con Contador
     ### Run command
     ```
-    pytest assignments/10AlternaCaracteresContador
+    pytest assignments/10.1AlternaCaracteresContador
     ```
 
 - ## 17 Número cuadrado mayor que 
