@@ -8,7 +8,7 @@ def main():
         else:
             print(str(i)+"-#")
             
-        
+         
 if __name__ == '__main__':
     main()
 
